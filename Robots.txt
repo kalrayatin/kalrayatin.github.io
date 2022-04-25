@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Allow: /publications/
+Allow: /resume/
+Allow: /pubkey/
+Allow: /about.html
